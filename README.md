@@ -2,7 +2,7 @@
 
 Started on Monday 2nd August, 2021
 
-* All that I have coded in my [progress log](Log.md) which we [tweeted out](https://twitter.com/betascribbles) daily with the #100DaysOfCode hashtag.
+* All that I have coded in my [progress log](log.md) which we [tweeted out](https://twitter.com/betascribbles) daily with the #100DaysOfCode hashtag.
 
 -- 
 
