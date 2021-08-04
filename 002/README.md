@@ -1,4 +1,4 @@
-### [Day-2 Tweet]()
+### [Day-2 Tweet](https://twitter.com/BetaScribbles/status/1423008235175481346)
 
 [strlen.c](strlen.c) - A program that returns the length of a string entered by the user.
 [swap_int.c](swap_int.c) - A program that takes the values of two integers from the user and swaps them.
