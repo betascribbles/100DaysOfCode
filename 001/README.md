@@ -1,4 +1,4 @@
-### [Day-1 Tweet]()
+### [Day-1 Tweet](https://twitter.com/BetaScribbles/status/1422649053465165825)
 
 [add_at_head.c](add_at_head.c) - A program that adds a new node at the beginning of a linked list
 
