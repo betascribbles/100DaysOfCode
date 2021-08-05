@@ -1,4 +1,4 @@
-### [Day-3 Tweet]()
+### [Day-3 Tweet](https://twitter.com/BetaScribbles/status/1423361963833298944)
 
 Today I learnt more on Pointers, Arrays and Strings.
 
