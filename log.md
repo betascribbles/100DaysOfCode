@@ -8,3 +8,5 @@
 | 002 | W 4 Aug 2021 | [strings & Integers](002) | Using pointers to receive input from the user. Swapping integers. Counting the length of a string. |
 | 003 | T 5 Aug 2021 | [Pointers, Arrays & Strings](003) | Today I learnt more on Pointers, Arrays and Strings. I wrote programs that play with these concepts. It was generally fun. |
 | 004 | F 6 Aug 2021 | [Developing Algorithms](https://b-ok.africa/book/1211079/f7417c) | The art of thinking on a problem algorithmically |
+| 005 | S 7 Aug 2021 | [bit-manipulation](005) | Manipulating bits to hex and int |
+| 006 | S 8 Aug 2021 | [Recursion](006) | Using recursion to calculate Factorial of a number, print a string, reverse a string |
