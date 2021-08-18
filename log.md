@@ -17,3 +17,6 @@
 | 011 | F 13 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
 | 012 | S 14 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
 | 013 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
+| 014 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
+| 015 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
+| 016 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
