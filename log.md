@@ -17,6 +17,9 @@
 | 011 | F 13 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
 | 012 | S 14 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
 | 013 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
-| 014 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
-| 015 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
-| 016 | S 15 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
+| 014 | M 16 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
+| 015 | T 17 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
+| 016 | W 18 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
+| 017 | T 19 Aug 2021 | Solved 2Q in leetcode | ARRAYS |
+| 018 - 025 | F 20 - F 27 Aug 2021 | [Simple Shell project](https://github.com/aaronkaddu/simple_shell)| BASH SHELL |
+| 026 | T 02 Sept 2021 | Vagrant | Set up vagrant ubuntu/focal virtualbox |
