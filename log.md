@@ -22,4 +22,7 @@
 | 016 | W 18 Aug 2021 | [Simple Linux Shell](https://github.com/betascribbles/simple_shell)| LINUX OPERATIONS |
 | 017 | T 19 Aug 2021 | Solved 2Q in leetcode | ARRAYS |
 | 018 - 025 | F 20 - F 27 Aug 2021 | [Simple Shell project](https://github.com/aaronkaddu/simple_shell)| BASH SHELL |
-| 026 | T 02 Sept 2021 | Vagrant | Set up vagrant ubuntu/focal virtualbox |
+| 026 | F 03 Sept 2021 | Vagrant | Set up vagrant ubuntu/focal virtualbox |
+| 027 | S 04 Sep 2021 | Debugging | How to effectively debug code using duck debugging technique and test files | 
+| 028 | S 05 Sept 2021 | Structures and Union | Continued on my sololearn certification |
+| 029 | M 06 Sept 2021 | Introduction to Python | Did a simple project on python |
