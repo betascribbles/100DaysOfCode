@@ -1,8 +1,9 @@
 # I, Firdaus, have committed to join the #100DaysOfCode challenge. 
 
-Started on Monday 2nd August, 2021
+- Round1 started on Monday 2nd August, 2021
+- Short break 28th August - 2nd September 2021
 
-* All that I have coded in my [progress log](log.md) and [tweeted out](https://twitter.com/betascribbles) daily with the #100DaysOfCode hashtag.
+* My [progress log](log.md) contains the details of my studies. I [tweet out](https://twitter.com/betascribbles) my daily progress with the #100DaysOfCode hashtag.
 
 -- 
 

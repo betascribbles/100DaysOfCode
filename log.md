@@ -26,3 +26,4 @@
 | 027 | S 04 Sep 2021 | Debugging | How to effectively debug code using duck debugging technique and test files | 
 | 028 | S 05 Sept 2021 | Structures and Union | Continued on my sololearn certification |
 | 029 | M 06 Sept 2021 | Introduction to Python | Did a simple project on python |
+| 030 | T 07 Sept 2021 | Python Conditions, Loops & Functions | if/else statements, loops and functions in the python language |
