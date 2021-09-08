@@ -27,3 +27,4 @@
 | 028 | S 05 Sept 2021 | Structures and Union | Continued on my sololearn certification |
 | 029 | M 06 Sept 2021 | Introduction to Python | Did a simple project on python |
 | 030 | T 07 Sept 2021 | [Python Conditions, Loops & Functions](030) | if/else statements, loops and functions in the python language |
+| 031 | W 08 Sept 2021 | [Python Conditions, Loops & Functions](030) | if/else statements, loops and functions in the python language |
