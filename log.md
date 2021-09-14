@@ -29,3 +29,8 @@
 | 030 | T 07 Sept 2021 | [Python Conditions, Loops & Functions](030) | if/else statements, loops and functions in the python language |
 | 031 | W 08 Sept 2021 | [Python Conditions, Loops & Functions](030) | if/else statements, loops and functions in the python language |
 | 032 | T 09 Sept 2021 | [python imports & modules](031) | Writing modules nd importing them to programs |
+| 033 | F 10 Sept 2021 | [python imports & modules](031) | Writing modules nd importing them to programs |
+| 034 | S 11 Sept 2021 | [Python Fundamentals](https://www.sololearn.com/learning/1157) | I learned and practised on the fundamentals of python |
+| 035 | S 12 Sept 2021 | [Python data structures](035) | Learned about lists and tuples |
+| 036 | M 13 Sept 2021 | [Python data structures](036) | Learned about lists and tuples |
+| 037 | T 14 Sept 2021 | [Basics of CSS](https://www.freecodecamp.org/learn/responsive-web-design/) | Finnished on the FreeCodecamp module on Basics of CSS |
