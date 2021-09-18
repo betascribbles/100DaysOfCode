@@ -34,3 +34,7 @@
 | 035 | S 12 Sept 2021 | [Python data structures](035) | Learned about lists and tuples |
 | 036 | M 13 Sept 2021 | [Python data structures](036) | Learned about lists and tuples |
 | 037 | T 14 Sept 2021 | [Basics of CSS](https://www.freecodecamp.org/learn/responsive-web-design/) | Finnished on the FreeCodecamp module on Basics of CSS |
+| 038 | W 15 Sept 2021 | [Python data structures](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x03-python-data_structures) | Set and dictionaries |
+| 039 | T 16 Sept 2021 | [Python data structures](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x04-python-more_data_structures) | - Completed the [freecodecamp](freecodecamp.org) module on css. - Doubly linked lists |
+| 040 | F 17 Sept 2021 | [Created a tribute page](https://github.com/betascribbles/FreeCodeCamp/tree/master/Tribute%20Page) | Completed freecodecamp course on Responsive web design |
+| 041 | S 18 Sept 2021 |  |  |
