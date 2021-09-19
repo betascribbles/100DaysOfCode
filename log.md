@@ -38,4 +38,4 @@
 | 039 | T 16 Sept 2021 | [Python data structures](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x04-python-more_data_structures) | - Completed the [freecodecamp](freecodecamp.org) module on css. - Doubly linked lists |
 | 040 | F 17 Sept 2021 | [Created a tribute page](https://github.com/betascribbles/FreeCodeCamp/tree/master/Tribute%20Page) | Completed freecodecamp course on Responsive web design |
 | 041 | S 18 Sept 2021 | [Survey Form](https://github.com/betascribbles/FreeCodeCamp/tree/master/Survey%20Form) | Working on the second project in FCC |
-| 042 | S 19 Sept 2021 |  |  |
+| 042 | S 19 Sept 2021 | [Survey form](042) | I have worked on a short introduction to python course in Pluralsight then wrote the html of my survey form for FCC |
