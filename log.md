@@ -40,3 +40,4 @@
 | 041 | S 18 Sept 2021 | [Survey Form](https://github.com/betascribbles/FreeCodeCamp/tree/master/Survey%20Form) | Working on the second project in FCC |
 | 042 | S 19 Sept 2021 | [Survey form](042) | I have worked on a short introduction to python course in Pluralsight then wrote the html of my survey form for FCC |
 | 043 | M 20 Sept 2021 | [Dynamic libraries in C](https://github.com/betascribbles/alx-low_level_programming/tree/master/0x18-dynamic_libraries) | I enjoy making the libraries. A very powerful tool for programmers. Today was fun |
+| 044 | T 21 Sept 2021 | [Stacks and Queues in C](044) | Working on a team project with monty python |
