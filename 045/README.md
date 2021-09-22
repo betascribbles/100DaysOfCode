@@ -1,0 +1,4 @@
+# Day 45 of #100DaysOfCode
+- Today I worked on the team project with @Omar. Researched about stacks and queues in python then tried to make an interpreter. [Here](https://github.com/betascribbles/monty) is my code..still need to figure out some errors there though.
+- I also had a school exam with Mr. John's latest unit "Web Technologies" , it wasn't as hard as I had imagined.
+- In the evening, I got the chance to finish my FCC survey project and beautify it. It now looks great. See it [here](https://github.com/betascribbles/FreeCodeCamp/tree/master/Survey%20Form). Not much, but it is a great achievement to me! I'm looking forward to proceed to the third project [Product landing page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page). 

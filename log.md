@@ -41,3 +41,5 @@
 | 042 | S 19 Sept 2021 | [Survey form](042) | I have worked on a short introduction to python course in Pluralsight then wrote the html of my survey form for FCC |
 | 043 | M 20 Sept 2021 | [Dynamic libraries in C](https://github.com/betascribbles/alx-low_level_programming/tree/master/0x18-dynamic_libraries) | I enjoy making the libraries. A very powerful tool for programmers. Today was fun |
 | 044 | T 21 Sept 2021 | [Stacks and Queues in C](044) | Working on a team project with monty python |
+| 045 | W 22 Sept 2021 | [Monty python interpreter](https://github.com/betascribbles/monty) | Learnt on stacks and queues. Completed the FCC survey project |
+| 046 | T 23 Sept 2021 |  |  |
