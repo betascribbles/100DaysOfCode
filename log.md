@@ -45,4 +45,6 @@
 | 046 | T 23 Sept 2021 | Product Landing page | Worked on the 3rd FCC project |
 | 047 | F 24 Sept 2021 | [Monty python interpreter](https://github.com/betascribbles/monty) | Worked on building the interpreter. It was a challenging experience. |
 | 048 | S 25 Sept 2021 | [Monty python interpreter](https://github.com/betascribbles/monty) | Finished working on the interpreter. It is up and running |
-| 049 | S 26 Sept 2021 |  |  |
+| 049 | S 26 Sept 2021 | FCC landing page | worked on the html |
+| 050 | M 27 Sept 2021 | [Python-errors and exceptions](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x05-python-exceptions) | handling errors and exception in python |
+| 051 | T 28 Sept 2021 | [Python OOP]() | Objects and classes in python |
