@@ -49,3 +49,4 @@
 | 050 | M 27 Sept 2021 | [Python-errors and exceptions](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x05-python-exceptions) | handling errors and exception in python |
 | 051 | T 28 Sept 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x06-python-classes) | Objects and classes in python |
 | 052 | W 29 Sept 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x06-python-classes) | Objects and classes in python |
+| 053 | T 30 Sept 2021 | FCC landing page proect | Finished working on the 3rd project |
