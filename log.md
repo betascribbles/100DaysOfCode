@@ -50,4 +50,9 @@
 | 051 | T 28 Sept 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x06-python-classes) | Objects and classes in python |
 | 052 | W 29 Sept 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x06-python-classes) | Objects and classes in python |
 | 053 | T 30 Sept 2021 | [FCC Technical documentation proect](https://codepen.io/betascribbles/pen/ZEyPeeM?editors=1100) | Finished working on the 4th project |
-| 054 | F 1 Oct 2021 |  |. |
+| 054 | F 1 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Refurbishing and Finalizing |
+| 055 | S 2 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Refurbishing and Finalizing |
+| 056 | S 3 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Completed the course and earned certification|
+| 057 | M 4 Oct 2021 |  |  |
+| 058 | T 5 Oct 2021 |  |  |
+| 059 | W 6 Oct 2021 |  |  |
