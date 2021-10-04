@@ -53,6 +53,6 @@
 | 054 | F 1 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Refurbishing and Finalizing |
 | 055 | S 2 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Refurbishing and Finalizing |
 | 056 | S 3 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Completed the course and earned certification|
-| 057 | M 4 Oct 2021 |  |  |
+| 057 | M 4 Oct 2021 | [OOP](./057) | Working with objects and classes in python |
 | 058 | T 5 Oct 2021 |  |  |
 | 059 | W 6 Oct 2021 |  |  |
