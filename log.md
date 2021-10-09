@@ -54,5 +54,7 @@
 | 055 | S 2 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Refurbishing and Finalizing |
 | 056 | S 3 Oct 2021 | [FCC projects](https://github.com/betascribbles/FreeCodeCamp) | Completed the course and earned certification|
 | 057 | M 4 Oct 2021 | [OOP](./057) | Working with objects and classes in python |
-| 058 | T 5 Oct 2021 |  |  |
-| 059 | W 6 Oct 2021 |  |  |
+| 058 | T 5 Oct 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x08-python-more_classes) | Objects and classes in python |
+| 059 | W 6 Oct 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x08-python-more_classes) | Objects and classes in python |
+| 060 | T 7 Oct 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x09-python-everything_is_object) | Objects and classes in python |
+| 061 | F 8 Oct 2021 | [Hash Tables in C](https://github.com/betascribbles/alx-low_level_programming/tree/master/0x1A-hash_tables) | Data Structures |
