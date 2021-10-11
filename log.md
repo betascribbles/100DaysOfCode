@@ -59,7 +59,7 @@
 | 060 | T 7 Oct 2021 | [Python OOP](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x09-python-everything_is_object) | Objects and classes in python |
 | 061 | F 8 Oct 2021 | [Hash Tables in C](https://github.com/betascribbles/alx-low_level_programming/tree/master/0x1A-hash_tables) | Data Structures |
 | 062 | S 9 Oct 2021 | [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | Completed 20-40% of the module |
-| 063 | S 10 Oct 2021 |
+| 063 | S 10 Oct 2021 | [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | Completed 40-60% of the module |
 | 064 | M 11 Oct 2021 |
 | 065 | T 12 Oct 2021 |
 | 066 | W 13 Oct 2021 |
