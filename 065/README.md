@@ -5,4 +5,4 @@ Today I am learning about FILE I/O with python
 </p>
 
 ### Resources Used
-<ol> [Python Documentation](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) </ol>
+[Python Documentation](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
