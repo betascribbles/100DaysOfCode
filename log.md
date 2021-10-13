@@ -62,7 +62,7 @@
 | 063 | S 10 Oct 2021 | [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | Completed 40-60% of the module |
 | 064 | M 11 Oct 2021 |
 | 065 | T 12 Oct 2021 |
-| 066 | W 13 Oct 2021 |
+| 066 | W 13 Oct 2021 | [Test driven Development](./065) | TDD with Python |
 | 067 | T 14 Oct 2021 |
 | 068 | F 15 Oct 2021 |
 | 069 | S 16 Oct 2021 |
