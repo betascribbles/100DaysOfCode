@@ -63,6 +63,6 @@
 | 064 | M 11 Oct 2021 | [Python - inheritance](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x0A-python-inheritance) | Objects, classes and methonds in python |
 | 065 | T 12 Oct 2021 | [Python - FILE I/O](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x0B-python-input_output) | Input Output |
 | 066 | W 13 Oct 2021 | [Test driven Development](./065) | TDD with Python |
-| 067 | T 14 Oct 2021 |
-| 068 | F 15 Oct 2021 |
+| 067 | T 14 Oct 2021 | Sololearn python course  | continuation |
+| 068 | F 15 Oct 2021 | Sololearn python course  | continuation |
 | 069 | S 16 Oct 2021 |
