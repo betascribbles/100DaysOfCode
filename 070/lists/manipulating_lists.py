@@ -32,3 +32,7 @@ print("Popped the last item:\t {}".format(numbers))
 pop_one = numbers.pop(0)
 print("We have popped:\t {}".format(pop_one))
 print("After popping one:\t {}\n".format(numbers))
+
+# Using remove() to remove a list item by value
+numbers.remove("two")
+print("After removing two:\t {}".format(numbers))
