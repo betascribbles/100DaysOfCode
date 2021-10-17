@@ -65,4 +65,14 @@
 | 066 | W 13 Oct 2021 | [Test driven Development](./065) | TDD with Python |
 | 067 | T 14 Oct 2021 | Sololearn python course  | continuation |
 | 068 | F 15 Oct 2021 | Sololearn python course  | continuation |
-| 069 | S 16 Oct 2021 |
+| 069 | S 16 Oct 2021 | Sololearn python course  | continuation |
+| 070 | S 17 Oct 2021 |
+| 071 | M 18 Oct 2021 |
+| 072 | T 19 Oct 2021 |
+| 073 | W 20 Oct 2021 |
+| 074 | T 21 Oct 2021 |
+| 075 | F 22 Oct 2021 |
+| 076 | S 23 Oct 2021 |
+| 077 | S 24 Oct 2021 |
+| 078 | M 25 Oct 2021 |
+| 079 | T 26 Oct 2021 |
