@@ -66,9 +66,9 @@
 | 067 | T 14 Oct 2021 | Sololearn python course  | continuation |
 | 068 | F 15 Oct 2021 | Sololearn python course  | continuation |
 | 069 | S 16 Oct 2021 | Sololearn python course  | continuation |
-| 070 | S 17 Oct 2021 |
-| 071 | M 18 Oct 2021 |
-| 072 | T 19 Oct 2021 |
+| 070 | S 17 Oct 2021 | [Python Crash Course](./070) | Working with python lists |
+| 071 | M 18 Oct 2021 | [Python Crash Course](./07) | Working with python tuples |
+| 072 | T 19 Oct 2021 | [Python Crash Course](./070) | Working with python tuples |
 | 073 | W 20 Oct 2021 |
 | 074 | T 21 Oct 2021 |
 | 075 | F 22 Oct 2021 |
