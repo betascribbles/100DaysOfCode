@@ -60,15 +60,15 @@
 | 061 | F 8 Oct 2021 | [Hash Tables in C](https://github.com/betascribbles/alx-low_level_programming/tree/master/0x1A-hash_tables) | Data Structures |
 | 062 | S 9 Oct 2021 | [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | Completed 20-40% of the module |
 | 063 | S 10 Oct 2021 | [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | Completed 40-60% of the module |
-| 064 | M 11 Oct 2021 | [Python - inheritance](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x0A-python-inheritance) | Objects, classes and methonds in python |
+| 064 | M 11 Oct 2021 | [Python - inheritance](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x0A-python-inheritance) | Objects, classes and methods in python |
 | 065 | T 12 Oct 2021 | [Python - FILE I/O](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x0B-python-input_output) | Input Output |
 | 066 | W 13 Oct 2021 | [Test driven Development](./065) | TDD with Python |
 | 067 | T 14 Oct 2021 | Sololearn python course  | continuation |
 | 068 | F 15 Oct 2021 | Sololearn python course  | continuation |
 | 069 | S 16 Oct 2021 | Sololearn python course  | continuation |
-| 070 | S 17 Oct 2021 |
-| 071 | M 18 Oct 2021 |
-| 072 | T 19 Oct 2021 |
+| 070 | S 17 Oct 2021 | [Python Crash Course](./070) | Working with python lists |
+| 071 | M 18 Oct 2021 | [Python Crash Course](./07) | Working with python tuples |
+| 072 | T 19 Oct 2021 | [Python Crash Course](./070) | Working with python tuples |
 | 073 | W 20 Oct 2021 |
 | 074 | T 21 Oct 2021 |
 | 075 | F 22 Oct 2021 |
