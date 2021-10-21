@@ -1,0 +1,2 @@
+# Day 74 of #100DaysOfCode
+<p>Today I want to revisit the concept of linked lists in C (singly & doubly). I want to be able to efficiently use it and be comfortable with it while doing the BIG O project.</p>
