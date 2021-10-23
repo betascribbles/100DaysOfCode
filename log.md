@@ -69,10 +69,10 @@
 | 070 | S 17 Oct 2021 | [Python Crash Course](./070) | Working with python lists |
 | 071 | M 18 Oct 2021 | [Python Crash Course](./071) | Working with python tuples |
 | 072 | T 19 Oct 2021 | [Python Crash Course](./072 | Working with python tuples |
-| 073 | W 20 Oct 2021 |
-| 074 | T 21 Oct 2021 |
-| 075 | F 22 Oct 2021 |
-| 076 | S 23 Oct 2021 |
+| 073 | W 20 Oct 2021 | [Python Crash Course](./072 | Working with python tuples |
+| 074 | T 21 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
+| 075 | F 22 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
+| 076 | S 23 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
 | 077 | S 24 Oct 2021 |
 | 078 | M 25 Oct 2021 |
 | 079 | T 26 Oct 2021 |
