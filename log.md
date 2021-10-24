@@ -73,6 +73,6 @@
 | 074 | T 21 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
 | 075 | F 22 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
 | 076 | S 23 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
-| 077 | S 24 Oct 2021 |
+| 077 | S 24 Oct 2021 | Technical Writing Course from Gitlab | Got a linkeding badge |
 | 078 | M 25 Oct 2021 |
 | 079 | T 26 Oct 2021 |
