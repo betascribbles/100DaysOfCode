@@ -73,6 +73,7 @@
 | 074 | T 21 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
 | 075 | F 22 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
 | 076 | S 23 Oct 2021 | Research | The BIG O algorithm. Did 2 modules JavaScript FCC |
-| 077 | S 24 Oct 2021 | Technical Writing Course from Gitlab | Got a linkeding badge |
-| 078 | M 25 Oct 2021 |
-| 079 | T 26 Oct 2021 |
+| 077 | S 24 Oct 2021 | Technical Writing Course from Gitlab | Got a linkedin badge |
+| 078 | M 25 Oct 2021 | [BIG O - Sorting algorithms] | Did a project to solidify my understanding of the algorithms. |
+| 079 | T 26 Oct 2021 | Did a project to solidify my understanding of the algorithms. |
+| 080 | W 27 Oct 2021 | [Python Crash Course](080) | Learning + hands-on practice |

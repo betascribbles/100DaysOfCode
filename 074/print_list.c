@@ -39,6 +39,8 @@ size_t print_list(const list_t *h)
      return total_nodes;
 }
 
+
+
 /* START OF THE PROGRAM*/
 int main(void)
 {
