@@ -77,12 +77,23 @@
 | 078 | M 25 Oct 2021 | [BIG O - Sorting algorithms] | Did a project to solidify my understanding of the algorithms. |
 | 079 | T 26 Oct 2021 | Did a project to solidify my understanding of the algorithms. |
 | 080 | W 27 Oct 2021 | [Python Crash Course](./080) | Learning + hands-on practice u|
-| 081 | T 28 Oct 2021 |
-| 082 | F 29 Oct 2021 |
-| 083 | S 30 Oct 2021 |
-| 084 | S 31 Oct 2021 |
-| 085 | M 1 Nov 2021 |
-| 086 | T 2 Nov 2021 |
-| 087 | W 3 Nov 2021 |
-| 088 | T 4 Nov 2021 |
-| 089 | F 1 Nov 2021 |
+| 081 | T 28 Oct 2021 | [Working with conditional statements in bash scripts](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing) | Bash scripts |
+| 082 | F 29 Oct 2021 | [Processes and signals : writing bash scrips with shellcheck linter](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x05-processes_and_signals) | Bash Scripts |
+| 083 | S 30 Oct 2021 | [Processes and signals : writing bash scrips with shellcheck linter](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x05-processes_and_signals) | Bash Scripts |
+| 084 | S 31 Oct 2021 |[Working with conditional statements in bash scripts](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing) | Bash scripts |
+| 085 | M 1 Nov 2021 | [Learnt bout RegEx](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x06-regular_expressions) | Bash scripts |
+| 086 | T 2 Nov 2021 | [Networking basics](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x07-networking_basics) | DevOps |
+| 087 | W 3 Nov 2021 | [Networking basics](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x08-networking_basics_2) | DevOps |
+| 088 | T 4 Nov 2021 | [Web design](https://github.com/betascribbles/dovid) | Creating a web application with html, css and js |
+| 089 | F 5 Nov 2021 | [Web design](https://github.com/betascribbles/dovid) | Creating a web application with html, css and js |
+| 090 | S 6 Nov 2021 | [Web design](https://github.com/betascribbles/dovid) | Creating a web application with html, css and js |
+| 091 | S 7 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 092 | M 8 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 093 | T 9 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 094 | W 10 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 095 | T 11 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 096 | F 12 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 097 | S 13 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 098 | S 14 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+| 099 | M 15 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
+<!-- | 100 | T 16 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Fixed bugs, AirBnB Console is working | -->
