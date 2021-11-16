@@ -96,4 +96,4 @@
 | 097 | S 13 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
 | 098 | S 14 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
 | 099 | M 15 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Working on TheConsole for Airbnb project |
-<!-- | 100 | T 16 Nov 2021 | [AirBnB Clone project](https://github.com/OVECJOE/AirBnB_clone) | Fixed bugs, AirBnB Console is working | -->
+| 100 | T 16 Nov 2021 | Started my journey with MySQL | Working with databases |-
