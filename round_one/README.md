@@ -6,6 +6,4 @@
 
 * My [progress log](log.md) contains the details of my studies. I [tweet out](https://twitter.com/betascribbles) my daily progress with the #100DaysOfCode hashtag.
 
--- 
-
-* Original #100DaysOfCode  idea by [Alexander Kallaway](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4).
+<b> Original #100DaysOfCode  idea by [Alexander Kallaway](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4). </b>

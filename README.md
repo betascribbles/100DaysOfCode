@@ -11,6 +11,4 @@
 
 <i> I [tweet out](https://twitter.com/betascribbles) my daily progress with the #100DaysOfCode hashtag. </i>
 
--- 
-
-* Original #100DaysOfCode  idea by [Alexander Kallaway](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4).
+<b> Original #100DaysOfCode  idea by [Alexander Kallaway](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4). </b>
