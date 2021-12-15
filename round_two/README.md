@@ -8,6 +8,8 @@
 - Learn JavaScript and its frameworks
 - Complete FreeCodeCamp JavaScript module certification
 
+--
+
 <i> I [tweet out](https://twitter.com/betascribbles) my daily progress with the #100DaysOfCode hashtag. </i>
 
 -- 
