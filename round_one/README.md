@@ -9,5 +9,3 @@
 -- 
 
 * Original #100DaysOfCode  idea by [Alexander Kallaway](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4).
-
-# Round 2 of #100DaysOfCode is coming up soon
