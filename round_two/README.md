@@ -1,7 +1,7 @@
 # I, Firdaus, have committed to join the #100DaysOfCode challenge for a second round. 
 
 ## [Round 2](./round_two)
-- Round 2 started on wednesday 22nd December, 2021
+- Round 2 started on wednesday 16th December, 2021
 - Saturdays & Sundays are excluded in my commitment in this round.
 
 ### Objectives
