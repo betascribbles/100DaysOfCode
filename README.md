@@ -6,7 +6,7 @@
 - Round 1 concluded on Tuesday 16th November, 2021
 
 ## [Round 2](./round_two)
-- Round 2 started on wednesday 22nd December, 2021
+- Round 2 started on wednesday 16th December, 2021
 - Saturdays & Sundays are excluded in my commitment in this round.
 
 <i> I [tweet out](https://twitter.com/betascribbles) my daily progress with the #100DaysOfCode hashtag. </i>
