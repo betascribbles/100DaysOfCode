@@ -6,3 +6,4 @@
 | 001 | T 16 Dec 2021 | Did FCC ES6 module 30% - 45% | FreeCodeCamp <br/> |
 | 002 | F 17 Dec 2021 | Did FCC ES6 module 45% - 55% | FreeCodeCamp <br/> |
 | 003 | M 20 Dec 2021 | Did FCC ES6 module 55% - 60% | FreeCodeCamp <br/> |
+| BREAK | 21 Dec Dec - 2 Jan 2022 | Had some rest <br/> Completed FCC ES6 module 100% <br/> Completed FCC regular Expressions module <br/> Did FCC Debugging module 58% | FreeCodeCamp |
