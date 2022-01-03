@@ -2,12 +2,13 @@
 
 ## [Round 2](./round_two)
 - Round 2 started on wednesday 16th December, 2021
-- Saturdays & Sundays are excluded in my commitment in this round.
+- Saturdays & Sundays may be excluded in my commitment in this round.
 
 ### Objectives
 - Learn JavaScript and its frameworks
 - Complete FreeCodeCamp JavaScript module certification
 - Learn and practice on Data Structures and Algorithms
+- Learn and use DevOps resources
 
 ---
 
