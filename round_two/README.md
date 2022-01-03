@@ -7,6 +7,7 @@
 ### Objectives
 - Learn JavaScript and its frameworks
 - Complete FreeCodeCamp JavaScript module certification
+- Learn and practice on Data Structures and Algorithms
 
 ---
 
