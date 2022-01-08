@@ -12,4 +12,13 @@
 | 006 | W 05 Jan 2022 | Docker <br/> | [digitalocean.com](https://www.digitalocean.com/community/tutorials/what-is-docker#:~:text=Docker%20is%20a%20popular%20open,traditional%20server%20or%20virtual%20machine.&text=Working%20with%20Docker%20Containers,tutorials%20under%20the%20docker%20tag) <br/> |
 | 007 | T 06 Jan 2022 |  Learnt about Puppet<br/> | Puppet documentation<br/> |
 | 008 | F 07 Jan 2022 |  Learnt about Networking - HTTP protocol <br/> | [www3.ntu.edu.sg](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)<br/> |
-| 009 | S 08 Jan 2022 |  <br/> | <br/> |
+| 009 | S 08 Jan 2022 |  Using `curl` to make server requests<br/> | Google<br/> |
+| 010 | S 09 Jan 2022 |  <br/> | <br/> |
+| 011 | M 10 Jan 2022 |  <br/> | <br/> |
+| 012 | T 11 Jan 2022 |  <br/> | <br/> |
+| 013 | W 12 Jan 2022 |  <br/> | <br/> |
+| 014 | T 13 Jan 2022 |  <br/> | <br/> |
+| 015 | F 14 Jan 2022 |  <br/> | <br/> |
+| 016 | S 15 Jan 2022 |  <br/> | <br/> |
+| 017 | S 16 Jan 2022 |  <br/> | <br/> |
+| 018 | M 17 Jan 2022 |  <br/> | <br/> |
