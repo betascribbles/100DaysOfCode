@@ -16,7 +16,7 @@
 | 010 | S 09 Jan 2022 |  Web networking with python3 urllib<br/> | Google<br/> |
 | 011 | M 10 Jan 2022 |  Web networking: load balancing<br/> | DigitalOcean<br/> |
 | 012 | T 11 Jan 2022 |  Using HAProxy as a load balancer<br/> | DigitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)|
-| 013 | W 12 Jan 2022 |  <br/> | <br/> |
+| 013 | W 12 Jan 2022 | Using HAProxy as a load balancer <br/> | igitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)<br/> |
 | 014 | T 13 Jan 2022 |  <br/> | <br/> |
 | 015 | F 14 Jan 2022 |  <br/> | <br/> |
 | 016 | S 15 Jan 2022 |  <br/> | <br/> |
