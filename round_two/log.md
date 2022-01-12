@@ -15,7 +15,7 @@
 | 009 | S 08 Jan 2022 |  Using `curl` to make server requests<br/> | Google<br/> |
 | 010 | S 09 Jan 2022 |  Web networking with python3 urllib<br/> | Google<br/> |
 | 011 | M 10 Jan 2022 |  Web networking: load balancing<br/> | DigitalOcean<br/> |
-| 012 | T 11 Jan 2022 |  Using HAProxy as a load balancer<br/> | DigitalOcean<br/> |
+| 012 | T 11 Jan 2022 |  Using HAProxy as a load balancer<br/> | DigitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)|
 | 013 | W 12 Jan 2022 |  <br/> | <br/> |
 | 014 | T 13 Jan 2022 |  <br/> | <br/> |
 | 015 | F 14 Jan 2022 |  <br/> | <br/> |
