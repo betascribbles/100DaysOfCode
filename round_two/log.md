@@ -17,7 +17,7 @@
 | 011 | M 10 Jan 2022 |  Web networking: load balancing<br/> | DigitalOcean<br/> |
 | 012 | T 11 Jan 2022 |  Using HAProxy as a load balancer<br/> | DigitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)|
 | 013 | W 12 Jan 2022 | Using HAProxy as a load balancer <br/> | igitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)<br/> |
-| 014 | T 13 Jan 2022 |  <br/> | <br/> |
+| 014 | T 13 Jan 2022 |  Setting up servers for web_static deployment. <br/> Generating SSL certificate for [beta-scribbles.tech](https://www.beta-scribbles.tech) with certbot in Nginx server. | DigitalOcean <br/> |
 | 015 | F 14 Jan 2022 |  Writing puppet manifests<br/> | Book:: DevOps:Puppet, Docker, and Kubernetes -by Uphill <br/> |
 | 016 | S 15 Jan 2022 |  <br/> | <br/> |
 | 017 | S 16 Jan 2022 |  <br/> | <br/> |
