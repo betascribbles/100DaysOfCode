@@ -10,7 +10,7 @@
 | 004 | M 03 Jan 2022 | [Learnt and solved problems on Server Configuration Management](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x0A-configuration_management) | [DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management) <br/> [Puppet Documentation](https://puppet.com/docs/puppet/latest) |
 | 005 | T 04 Jan 2022 | Learnt and [solved problems](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x06-regular_expressions) onRegEx with C <br/> [Open System Interconnection (OSI) Model](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x07-networking_basics) <br/> [SSH essOientials]() | [regular-expressions.info](https://www.regular-expressions.info/) <br/> [w3schools](https://www.w3schools.com/jsref/jsref_obj_regexp.asp) <br/> [ OSI Animation](https://www.youtube.com/watch?v=vv4y_uOneC0) <br/>
 | 006 | W 05 Jan 2022 | Docker <br/> | [digitalocean.com](https://www.digitalocean.com/community/tutorials/what-is-docker#:~:text=Docker%20is%20a%20popular%20open,traditional%20server%20or%20virtual%20machine.&text=Working%20with%20Docker%20Containers,tutorials%20under%20the%20docker%20tag) <br/> |
-| 007 | T 06 Jan 2022 |  Learnt about Puppet<br/> | Puppet documentation<br/> |
+| 007 | T 06 Jan 2022 |  Learnt about Puppet<br/> |  [Puppet Documentation](https://puppet.com/docs/puppet/latest)<br/> |
 | 008 | F 07 Jan 2022 |  Learnt about Networking - HTTP protocol <br/> | [www3.ntu.edu.sg](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)<br/> |
 | 009 | S 08 Jan 2022 |  Using `curl` to make server requests<br/> | Google<br/> |
 | 010 | S 09 Jan 2022 |  Web networking with python3 urllib<br/> | Google<br/> |
@@ -19,6 +19,12 @@
 | 013 | W 12 Jan 2022 | Using HAProxy as a load balancer <br/> | igitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)<br/> |
 | 014 | T 13 Jan 2022 |  Setting up servers for web_static deployment. <br/> Generating SSL certificate for [beta-scribbles.tech](https://www.beta-scribbles.tech) with certbot in Nginx server. | DigitalOcean <br/> |
 | 015 | F 14 Jan 2022 |  Writing puppet manifests<br/> | Book:: DevOps:Puppet, Docker, and Kubernetes -by Uphill <br/> |
-| 016 | S 15 Jan 2022 |  <br/> | <br/> |
-| 017 | S 16 Jan 2022 |  <br/> | <br/> |
+| 016 | S 15 Jan 2022 |  Automating Linux updates, upgrades and cleanup operations with shell scripts.<br/> [Wrote an article](https://t.co/mqiIq2UlmR) | <br/> |
+| 017 | S 16 Jan 2022 |  More about working with Puppet.<br/> |  [Puppet Documentation](https://puppet.com/docs/puppet/latest)<br/> |
 | 018 | M 17 Jan 2022 |  <br/> | <br/> |
+| 019 | T 18 Jan 2022 |  <br/> | <br/> |
+| 020 | W 19 Jan 2022 |  <br/> | <br/> |
+| 021 | T 20 Jan 2022 |  <br/> | <br/> |
+| 022 | F 21 Jan 2022 |  <br/> | <br/> |
+| 023 | S 21 Jan 2022 |  <br/> | <br/> |
+| 024 | S 21 Jan 2022 |  <br/> | <br/> |
