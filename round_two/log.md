@@ -21,11 +21,10 @@
 | 015 | F 14 Jan 2022 |  Writing puppet manifests<br/> | Book:: DevOps:Puppet, Docker, and Kubernetes -by Uphill <br/> |
 | 016 | S 15 Jan 2022 |  Automating Linux updates, upgrades and cleanup operations with shell scripts.<br/> [Wrote an article](https://t.co/mqiIq2UlmR) | <br/> |
 | 017 | S 16 Jan 2022 |  More about working with Puppet.<br/> |  [Puppet Documentation](https://puppet.com/docs/puppet/latest)<br/> |
-| 018 | M 17 Jan 2022 |  <br/> | <br/> |
-| 019 | T 18 Jan 2022 |  <br/> | <br/> |
-| 020 | W 19 Jan 2022 |  <br/> | <br/> |
-| 021 | T 20 Jan 2022 |  <br/> | <br/> |
-| 022 | F 21 Jan 2022 |  <br/> | <br/> |
-| 023 | S 21 Jan 2022 |  <br/> | <br/> |
-| 024 | S 21 Jan 2022 |  <br/> | <br/> |
-| 025 | M 22 Jan 2022 |  <br/> | <br/> |
+| 018 | M 17 Jan 2022 |  More about working with Puppet.<br/> |  [Puppet Documentation](https://puppet.com/docs/puppet/latest)<br/> |
+| 019 | T 18 Jan 2022 |  Practice Sorting algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
+| 020 | W 19 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
+| 021 | T 20 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
+| 023 | S 22 Jan 2022 |  Creating and managing docker images.<br/> | [docs.docker.com](https://docs.docker.com)<br/> |
+| 024 | S 23 Jan 2022 |  <br/> | <br/> |
+| 025 | M 24 Jan 2022 |  <br/> | <br/> |
