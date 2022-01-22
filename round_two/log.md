@@ -25,6 +25,6 @@
 | 019 | T 18 Jan 2022 |  Practice Sorting algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
 | 020 | W 19 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
 | 021 | T 20 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
-| 023 | S 22 Jan 2022 |  Creating and managing docker images.<br/> | [docs.docker.com](https://docs.docker.com)<br/> |
-| 024 | S 23 Jan 2022 |  <br/> | <br/> |
-| 025 | M 24 Jan 2022 |  <br/> | <br/> |
+| 022 | S 22 Jan 2022 |  Creating and managing docker images.<br/> | [docs.docker.com](https://docs.docker.com)<br/> |
+| 023 | S 23 Jan 2022 |  <br/> | <br/> |
+| 024 | M 24 Jan 2022 |  <br/> | <br/> |
