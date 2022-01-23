@@ -26,5 +26,5 @@
 | 020 | W 19 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
 | 021 | T 20 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
 | 022 | S 22 Jan 2022 |  Creating and managing docker images.<br/> | [docs.docker.com](https://docs.docker.com)<br/> |
-| 023 | S 23 Jan 2022 |  <br/> | <br/> |
+| 023 | S 23 Jan 2022 |  Refresh of how web2.0 client-server architecture works.<br/> Wrote a blog post in my hashnode about it <br/> | [betascribbles.hashnode.dev](https://betascribbles.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter)<br/> |
 | 024 | M 24 Jan 2022 |  <br/> | <br/> |
