@@ -6,7 +6,7 @@
 | 001 | T 16 Dec 2021 | Did FCC ES6 module 30% - 45% | FreeCodeCamp <br/> |
 | 002 | F 17 Dec 2021 | Did FCC ES6 module 45% - 55% | FreeCodeCamp <br/> |
 | 003 | M 20 Dec 2021 | Did FCC ES6 module 55% - 60% | FreeCodeCamp <br/> |
-| BREAK | 21 Dec Dec - 2 Jan 2022 | Had some rest <br/> Completed FCC ES6 module 100% <br/> Completed FCC Regular Expressions module 100% <br/> Did FCC Debugging module 58% <br/> Practiced Big Oh Algorithms | FreeCodeCamp <br/> [Codebyte](https://coderbyte.com/starter-course/algorithms-and-data-structures) |
+| BREAK | 21 Dec - 2 Jan 2022 | Had some rest <br/> Completed FCC ES6 module 100% <br/> Completed FCC Regular Expressions module 100% <br/> Did FCC Debugging module 58% <br/> Practiced Big Oh Algorithms | FreeCodeCamp <br/> [Codebyte](https://coderbyte.com/starter-course/algorithms-and-data-structures) |
 | 004 | M 03 Jan 2022 | [Learnt and solved problems on Server Configuration Management](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x0A-configuration_management) | [DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management) <br/> [Puppet Documentation](https://puppet.com/docs/puppet/latest) |
 | 005 | T 04 Jan 2022 | Learnt and [solved problems](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x06-regular_expressions) onRegEx with C <br/> [Open System Interconnection (OSI) Model](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x07-networking_basics) <br/> [SSH essOientials]() | [regular-expressions.info](https://www.regular-expressions.info/) <br/> [w3schools](https://www.w3schools.com/jsref/jsref_obj_regexp.asp) <br/> [ OSI Animation](https://www.youtube.com/watch?v=vv4y_uOneC0) <br/>
 | 006 | W 05 Jan 2022 | Docker <br/> | [digitalocean.com](https://www.digitalocean.com/community/tutorials/what-is-docker#:~:text=Docker%20is%20a%20popular%20open,traditional%20server%20or%20virtual%20machine.&text=Working%20with%20Docker%20Containers,tutorials%20under%20the%20docker%20tag) <br/> |
@@ -28,4 +28,10 @@
 | 022 | S 22 Jan 2022 |  Creating and managing docker images.<br/> | [docs.docker.com](https://docs.docker.com)<br/> |
 | 023 | S 23 Jan 2022 |  Refresh of how web2.0 client-server architecture works.<br/> Wrote a blog post in my hashnode about it <br/> | [betascribbles.hashnode.dev](https://betascribbles.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter)<br/> |
 | 024 | M 24 Jan 2022 |  Setting up firewall on web servers<br/> | [digitalocean](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)<br/> |
-| 025 | T 25 Jan 2022 |  <br/> |  <br/> |
+| 025 | T 25 Jan 2022 |   Deploying static content in NGINX web servers. <br/> Understanding NGINX infrastructure. <br/> |  [nginx official website]()<br/> |
+| 026 | W 26 Jan 2022 |  Deploying static content in NGINX web servers.<br/> Understanding NGINX infrastructure.<br/> Understanding server ports, configuring firewall.<br/> |  [nginx official website]()<br/> |
+| 027 | T 27 Jan 2022 |  Understanding NGINX infrastructure.<br/> |  [nginx official website]()<br/> |
+| 028 | S 29 Jan 2022 |  <br/> |  <br/> |
+| 029 | S 30 Jan 2022 |  <br/> |  <br/> |
+| 030 | M 31 Jan 2022 |  <br/> |  <br/> |
+| 031 | T 01 Feb 2022 |  <br/> |  <br/> |
