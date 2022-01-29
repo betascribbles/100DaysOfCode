@@ -31,7 +31,7 @@
 | 025 | T 25 Jan 2022 |   Deploying static content in NGINX web servers. <br/> Understanding NGINX infrastructure. <br/> |  [nginx official website]()<br/> |
 | 026 | W 26 Jan 2022 |  Deploying static content in NGINX web servers.<br/> Understanding NGINX infrastructure.<br/> Understanding server ports, configuring firewall.<br/> |  [nginx official website]()<br/> |
 | 027 | T 27 Jan 2022 |  Understanding NGINX infrastructure.<br/> |  [nginx official website]()<br/> |
-| 028 | S 29 Jan 2022 |  <br/> |  <br/> |
+| 028 | S 29 Jan 2022 |  Did FCC JavaScript Debugging module 60% - 100%<br/> |  FreeCodeCamp<br/> |
 | 029 | S 30 Jan 2022 |  <br/> |  <br/> |
 | 030 | M 31 Jan 2022 |  <br/> |  <br/> |
 | 031 | T 01 Feb 2022 |  <br/> |  <br/> |
