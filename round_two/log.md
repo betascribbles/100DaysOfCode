@@ -33,5 +33,5 @@
 | 027 | T 27 Jan 2022 |  Understanding NGINX infrastructure.<br/> |  [nginx official website]()<br/> |
 | 028 | S 29 Jan 2022 |  Did FCC JavaScript Debugging module 60% - 100%<br/> Built my [first flask app] deployed in [Heroku](https://taskmanager033.herokuapp.com/)<br> |  FreeCodeCamp<br/> [Heroku Guide](https://devcenter.heroku.com/articles/getting-started-with-python) <br> |
 | 029 | S 30 Jan 2022 | Getting started w/ Flask<br/> | [jinja.palletsprojects.com](https://jinja.palletsprojects.com/en/3.0.x/) <br/> [hackersandslackers](https://hackersandslackers.com) |
-| 030 | M 31 Jan 2022 |  <br/> |  <br/> |
+| 030 | M 31 Jan 2022 |  Getting started w/ APIs<br/> |  [FCC](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)<br/> |
 | 031 | T 01 Feb 2022 |  <br/> |  <br/> |
