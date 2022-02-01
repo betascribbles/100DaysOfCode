@@ -16,15 +16,15 @@
 | 010 | S 09 Jan 2022 |  Web networking with python3 urllib<br/> | Google<br/> |
 | 011 | M 10 Jan 2022 |  Web networking: load balancing<br/> | DigitalOcean<br/> |
 | 012 | T 11 Jan 2022 |  Using HAProxy as a load balancer<br/> | DigitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)|
-| 013 | W 12 Jan 2022 | Using HAProxy as a load balancer <br/> | igitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)<br/> |
+| 013 | W 12 Jan 2022 | [Using HAProxy as a load balancer](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x0F-load_balancer) <br/> | DigitalOcean<br/> [linuxhint.com](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)<br/> |
 | 014 | T 13 Jan 2022 |  Setting up servers for web_static deployment. <br/> Generating SSL certificate for [beta-scribbles.tech](https://www.beta-scribbles.tech) with certbot in Nginx server. | DigitalOcean <br/> |
 | 015 | F 14 Jan 2022 |  Writing puppet manifests<br/> | Book:: DevOps:Puppet, Docker, and Kubernetes -by Uphill <br/> |
 | 016 | S 15 Jan 2022 |  Automating Linux updates, upgrades and cleanup operations with shell scripts.<br/> [Wrote an article](https://t.co/mqiIq2UlmR) | <br/> |
 | 017 | S 16 Jan 2022 |  More about working with Puppet.<br/> |  [Puppet Documentation](https://puppet.com/docs/puppet/latest)<br/> |
 | 018 | M 17 Jan 2022 |  More about working with Puppet.<br/> |  [Puppet Documentation](https://puppet.com/docs/puppet/latest)<br/> |
-| 019 | T 18 Jan 2022 |  Practice Sorting algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
-| 020 | W 19 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
-| 021 | T 20 Jan 2022 |  Practice Sorting|Searching algorithms with C.<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
+| 019 | T 18 Jan 2022 |  [Practice Sorting algorithms with C.](https://github.com/Trikcode/sorting_algorithms/tree/6217e1073accf1decd167794add31bb33b031ef6)<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
+| 020 | W 19 Jan 2022 |  [Practice Sorting|Searching algorithms with C.](https://github.com/Trikcode/sorting_algorithms/tree/6217e1073accf1decd167794add31bb33b031ef6)<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
+| 021 | T 20 Jan 2022 |  [Practice Sorting|Searching algorithms with C](https://github.com/Trikcode/sorting_algorithms/tree/6217e1073accf1decd167794add31bb33b031ef6)<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/).<br/> | [G4G](https://www.geeksforgeeks.org/sorting-algorithms/)<br/> |
 | 022 | S 22 Jan 2022 |  Creating and managing docker images.<br/> | [docs.docker.com](https://docs.docker.com)<br/> |
 | 023 | S 23 Jan 2022 |  Refresh of how web2.0 client-server architecture works.<br/> Wrote a blog post in my hashnode about it <br/> | [betascribbles.hashnode.dev](https://betascribbles.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter)<br/> |
 | 024 | M 24 Jan 2022 |  Setting up firewall on web servers<br/> | [digitalocean](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)<br/> |
@@ -33,5 +33,5 @@
 | 027 | T 27 Jan 2022 |  Understanding NGINX infrastructure.<br/> |  [nginx official website]()<br/> |
 | 028 | S 29 Jan 2022 |  Did FCC JavaScript Debugging module 60% - 100%<br/> Built my [first flask app] deployed in [Heroku](https://taskmanager033.herokuapp.com/)<br> |  FreeCodeCamp<br/> [Heroku Guide](https://devcenter.heroku.com/articles/getting-started-with-python) <br> |
 | 029 | S 30 Jan 2022 | Getting started w/ Flask<br/> | [jinja.palletsprojects.com](https://jinja.palletsprojects.com/en/3.0.x/) <br/> [hackersandslackers](https://hackersandslackers.com) |
-| 030 | M 31 Jan 2022 |  Getting started w/ APIs<br/> |  [FCC](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)<br/> |
-| 031 | T 01 Feb 2022 |  <br/> |  <br/> |
+| 030 | M 31 Jan 2022 |  [Getting started w/ APIs](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x15-api)<br/> |  [FCC](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)<br/> |
+| 031 | T 01 Feb 2022 |  [Web scraping with JavaScript](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x14-javascript-web_scraping)<br/> |  <br/> |
