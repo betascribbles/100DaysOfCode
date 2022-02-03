@@ -36,3 +36,4 @@
 | 030 | M 31 Jan 2022 |  [Getting started w/ APIs](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x15-api)<br/> |  [FCC](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)<br/> |
 | 031 | T 01 Feb 2022 |  [Web scraping with JavaScript](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x14-javascript-web_scraping)<br/> |  Google<br/> |
 | 032 | W 02 Feb 2022 | Python OOP.<br>Made a [small program](https://github.com/betascribbles/100DaysOfCode/tree/main/round_two/draw) that draws shapes using the python's `turtle library`<br> | Google<br> Codegrepper<br> |
+| 033 |T 03 Feb 2022 | Python test driven development with unittest module |  |
