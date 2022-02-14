@@ -39,4 +39,4 @@
 | 033 |T 03 Feb 2022 | Python test driven development with unittest module |  |
 | 034 | F 04 Feb 2022 | Brainstorming about my portfolio project: BooktifuL |  |
 | 035 | S 05 Feb 2022 | Working on Airbnb clone |  |
-| 036 | M 14 Feb 2022 |
+| 036 | M 14 Feb 2022 | [Getting started with JQuery](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x15-javascript-web_jquery) <br> | [jquery.com](https://api.jquery.com/) |
