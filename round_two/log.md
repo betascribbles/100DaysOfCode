@@ -40,3 +40,9 @@
 | 034 | F 04 Feb 2022 | Brainstorming about my portfolio project: BooktifuL |  |
 | 035 | S 05 Feb 2022 | Working on Airbnb clone |  |
 | 036 | M 14 Feb 2022 | [Getting started with JQuery](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x15-javascript-web_jquery) <br> | [jquery.com](https://api.jquery.com/) |
+| 037 | T 15 Feb 2022 |
+| 038 | W 16 Feb 2022 |
+| 039 | T 17 Feb 2022 |
+| 040 | F 18 Feb 2022 |
+| 041 | S 19 Feb 2022 |
+| 042 | S 20 Feb 2022 |
