@@ -40,9 +40,12 @@
 | 034 | F 04 Feb 2022 | Brainstorming about my portfolio project: BooktifuL |  |
 | 035 | S 05 Feb 2022 | Working on Airbnb clone |  |
 | 036 | M 14 Feb 2022 | [Getting started with JQuery](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x15-javascript-web_jquery) <br> | [jquery.com](https://api.jquery.com/) |
-| 037 | T 15 Feb 2022 |
-| 038 | W 16 Feb 2022 |
-| 039 | T 17 Feb 2022 |
-| 040 | F 18 Feb 2022 |
-| 041 | S 19 Feb 2022 |
-| 042 | S 20 Feb 2022 |
+| 037 | T 15 Feb 2022 | Retouching AirBnB clone: the console | [AirBnB Clone](https://github.com/OVECJOE/AirBnB_clone) |
+| 038 | W 16 Feb 2022 | Webstack debugging | [#3](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x17-web_stack_debugging_3)
+| 039 | T 17 Feb 2022 | [JavaScript web jQuery](https://github.com/betascribbles/alx-higher_level_programming/tree/main/0x15-javascript-web_jquery) | [Resources](https://github.com/betascribbles/alx-higher_level_programming/blob/main/0x15-javascript-web_jquery/README.md)
+| 040 | F 18 Feb 2022 | [Writing Postmortem](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x19-postmortem) | 
+| 041 | S 19 Feb 2022 | Completed Sololearn [intermediate python course](https://www.sololearn.com/certificates/course/en/15361546/1158/landscape/png) | [sololearn.com](sololearn.com) |
+| 042 | S 20 Feb 2022 | Completed Sololearn [jQuery course](https://www.sololearn.com/Certificate/1082-15361546/jpg) | [sololearn.com](sololearn.com) |
+| 043 | M 21 Feb 2022 | [Working with advanced api](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x16-api_advanced) | 
+| 044 | T 22 Feb 2022 | [Python ORM](https://github.com/betascribbles/alx-higher_level_programming/tree/a5e6b61061014097a0fa393b3650055472940d9a) |
+
