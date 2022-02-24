@@ -48,4 +48,5 @@
 | 042 | S 20 Feb 2022 | Completed Sololearn [jQuery course](https://www.sololearn.com/Certificate/1082-15361546/jpg) | [sololearn.com](sololearn.com) |
 | 043 | M 21 Feb 2022 | [Working with advanced api](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x16-api_advanced) | 
 | 044 | T 22 Feb 2022 | [Python ORM](https://github.com/betascribbles/alx-higher_level_programming/tree/a5e6b61061014097a0fa393b3650055472940d9a) |
+| 045 | W 23 Feb 2022 | [Python ORM](https://github.com/betascribbles/alx-higher_level_programming/tree/a5e6b61061014097a0fa393b3650055472940d9a) |
 
