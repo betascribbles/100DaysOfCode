@@ -51,6 +51,6 @@
 | 045 | W 23 Feb 2022 | [Python ORM](https://github.com/betascribbles/alx-higher_level_programming/tree/a5e6b61061014097a0fa393b3650055472940d9a/0x0F-python-object_relational_mapping) |
 | 046 | T 24 Feb 2022 | Learnig SQL | [sololearn.com](https://www.sololearn.com/learning/1060) |
 | 047 | F 25 Feb 2022 | [Postmortem](https://github.com/betascribbles/alx-system_engineering-devops/tree/main/0x19-postmortem) | [Apiumhub](https://apiumhub.com/tech-blog-barcelona/software-development-project-postmortem/) |
-| 048 | M 28 Feb 2022 | Completed SQL in sololearn | [sololearn.com](https://www.sololearn.com/learning/1060) |
+| 048 | M 28 Feb 2022 | [Completed SQL in sololearn](https://www.sololearn.com/certificates/course/en/15361546/1060/landscape/png) | [sololearn.com](https://www.sololearn.com/learning/1060) |
 | 049 | T 01 Mar 2022 | [Python ORM](https://github.com/betascribbles/alx-higher_level_programming/tree/a5e6b61061014097a0fa393b3650055472940d9a/0x0F-python-object_relational_mapping) |
 | 050 | W 02 Mar 2022 |
