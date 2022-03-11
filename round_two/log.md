@@ -55,10 +55,10 @@
 | 049 | T 01 Mar 2022 | [Python ORM](https://github.com/betascribbles/alx-higher_level_programming/tree/a5e6b61061014097a0fa393b3650055472940d9a/0x0F-python-object_relational_mapping) | [readme](https://github.com/betascribbles/alx-higher_level_programming/blob/main/0x0F-python-object_relational_mapping/README.md) |
 | 050 | W 02 Mar 2022 | Solved a leetcode coding question | [leetcode.com](leetcode.com) |
 | 051 | T 03 Mar 2022 | Building BooktifuL web app idea | [Booktiful](https://booktiful.netlify.app/) |
-| 052 | F 04 Mar 2022 | BooktifuL - Setting MVP specifications | [Booktiful](https://booktiful.netlify.app/) |
-| 053 | S 06 Mar 2022 | BooktifuL: <br> 🥍 Designing the app architecture <br> 🥍 Setting up GoogleBooks API keys <br> 🥍 Building the data model | [Booktiful](https://booktiful.netlify.app/) |
+| 052 | F 04 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - Setting MVP specifications | [Booktiful](https://booktiful.netlify.app/) |
+| 053 | S 06 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery): <br> 🥍 Designing the app architecture <br> 🥍 Setting up GoogleBooks API keys <br> 🥍 Building the data model | [Booktiful](https://booktiful.netlify.app/) |
 | 054 | M 07 Mar 2022 | 🥍 Writing user stories <br> 🥍 Designing mockups | [Booktiful](https://booktiful.netlify.app/) |
-| 055 | T 08 Mar 2022 | BooktifuL - Setting-up Trello board and other project resources <br> | [Booktiful](https://booktiful.netlify.app/) |
-| 056 | W 09 Mar 2022 | BooktifuL - Writing the front-end  interface | [Booktiful](https://booktiful.netlify.app/) |
-| 057 | T 10 Mar 2022 | BooktifuL - linking GoogleBooks api with jQuery | [Booktiful](https://booktiful.netlify.app/) |
-| 058 | F 11 Mar 2022 | BooktifuL - 🥍 creating a book-previewer with #nodejs embeded javascript templates | [Booktiful](https://booktiful.netlify.app/) |
+| 055 | T 08 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - Setting-up Trello board and other project resources <br> | [Booktiful](https://booktiful.netlify.app/) |
+| 056 | W 09 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - Writing the front-end  interface | [Booktiful](https://booktiful.netlify.app/) |
+| 057 | T 10 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - linking GoogleBooks api with jQuery | [Booktiful](https://booktiful.netlify.app/) |
+| 058 | F 11 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - 🥍 creating a book-previewer with #nodejs embeded javascript templates | [Booktiful](https://booktiful.netlify.app/) |
