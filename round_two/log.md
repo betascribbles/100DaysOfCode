@@ -61,4 +61,4 @@
 | 055 | T 08 Mar 2022 | BooktifuL - Setting-up Trello board and other project resources <br> | [Booktiful](https://booktiful.netlify.app/) |
 | 056 | W 09 Mar 2022 | BooktifuL - Writing the front-end  interface | [Booktiful](https://booktiful.netlify.app/) |
 | 057 | T 10 Mar 2022 | BooktifuL - linking GoogleBooks api with jQuery | [Booktiful](https://booktiful.netlify.app/) |
-| 058 | F 11 Mar 2022 |
+| 058 | F 11 Mar 2022 | BooktifuL - 🥍 creating a book-previewer with #nodejs embeded javascript templates | [Booktiful](https://booktiful.netlify.app/) |
