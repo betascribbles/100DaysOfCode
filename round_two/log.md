@@ -64,4 +64,5 @@
 | 058 | F 11 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - 🥍 creating a book-previewer with #nodejs embeded javascript templates | [Booktiful](https://booktiful.netlify.app/) |
 | 059 | S 12 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - 🥍 designed a login/signup form | [Booktiful](https://booktiful.netlify.app/) |
 | 060 | S 13 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - 🥍 designed a login/signup form | [Booktiful](https://booktiful.netlify.app/) |
-| 061 | M 14 Mar 2022 |
+| 061 | M 14 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - 🥍 designed a login/signup form | [Booktiful](https://booktiful.netlify.app/) |
+| 062 | T 15 Mar 2022 |
