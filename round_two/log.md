@@ -67,3 +67,4 @@
 | 061 | M 14 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - 🥍 designed a login/signup form | [Booktiful](https://booktiful.netlify.app/) |
 | 062 - 080 | T 15 Mar 2022 | [BooktifuL](https://github.com/betascribbles/BooktifuL_jQuery) - 🥍 winding up | [Booktiful](https://booktiful.netlify.app/) |
 | 081 - 084 | M 04 Apr 2022 | learning Bootstrap | [A complete Bootstrap 4 course for beginners.](https://www.udemy.com/course/bootstrap-4-tutorials/learn/lecture/6802564#overview) |
+| 085 | T 05 Apr 2022 | [Getting started with ES6](https://github.com/betascribbles/alx-frontend-javascript/tree/main/0x00-ES6_basic) |  |
