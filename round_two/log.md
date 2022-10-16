@@ -69,3 +69,4 @@
 | 081 - 084 | M 04 Apr 2022 | learning Bootstrap | [A complete Bootstrap 4 course for beginners.](https://www.udemy.com/course/bootstrap-4-tutorials/learn/lecture/6802564#overview) |
 | 085 | T 05 Apr 2022 | [Getting started with ES6](https://github.com/betascribbles/alx-frontend-javascript/tree/main/0x00-ES6_basic) |  |
 | 086 - 99 | S 10 Apr 2022 | learning Bootstrap | [A complete Bootstrap 4 course for beginners.](https://www.udemy.com/course/bootstrap-4-tutorials/learn/lecture/6802564#overview) |
+| 100 | T 19 Jul 2022 | Completed challenge |
