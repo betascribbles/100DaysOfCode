@@ -9,6 +9,10 @@
 - Round 2 started on wednesday 16th December, 2021
 - Saturdays & Sundays may be excluded in my commitment in this round.
 
-<i> I [tweet out](https://twitter.com/betascribbles) my daily progress with the #100DaysOfCode hashtag. </i>
+## [Round 3](./round_three)
+- Start: Sunday 16th October 2022
+- Saturdays & Sundays may be included in my commitment this round.
+
+<hr>
 
 <b> Original #100DaysOfCode  idea by [Alexander Kallaway](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4). </b>
