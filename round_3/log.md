@@ -7,4 +7,5 @@
 | 3 | W 19 Oct 2022 | Proceed with firebase auth app | 
 | 4 | S 23 Oct 2022 | Python TDD session prep|
 | 5 | M 24 oct 2022 | Python TDD presentation |
-| 6 | S 30 Oct 2022 | 	
+| 6 | S 30 Oct 2022 | Bootstrap installation and setup |
+| 7 | 	
