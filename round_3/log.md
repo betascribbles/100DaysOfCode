@@ -8,4 +8,4 @@
 | 4 | S 23 Oct 2022 | Python TDD session prep|
 | 5 | M 24 oct 2022 | Python TDD presentation |
 | 6 | S 30 Oct 2022 | Bootstrap installation and setup |
-| 7 | 	
+| 7 |   	
